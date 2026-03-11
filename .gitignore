@@ -1,0 +1,42 @@
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
+
+# Application config (optional)
+application-local.yml
+application-local.properties
+
+# Java
+*.class
+
+# Temporary files
+*.tmp
+*.swp
+
+# Gradle Wrapper cache
+!gradle/wrapper/gradle-wrapper.jar
+
+# Mac
+.AppleDouble
+.LSOverride
+
+# Windows
+Desktop.ini
